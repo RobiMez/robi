@@ -1,0 +1,32 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=League+Spartan:wght@700&display=swap');
+
+body {
+    margin: 0;
+    background: #0A0A0A;
+    color: #eaf0e6;
+    font-family: 'Lato', sans-serif;
+    overflow: scroll;
+}
+html {
+    width :  100% ; 
+}
+
+main {
+    padding: 1rem;
+    margin: 2rem auto;
+    max-width: 40rem;
+}
+
+a {
+    color : #A7BC8A;
+}
+a:hover {
+    color :#FF7070;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 4rem;
+    font-family: 'League Spartan', sans-serif;
+}
