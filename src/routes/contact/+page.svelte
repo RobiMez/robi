@@ -1,4 +1,5 @@
 <!-- contact/+page.svelte -->
-<h1>Get in touch</h1>
+<h1>You can reach me by :</h1>
 
-<p><a href="mailto:me@my.tld">Email me!</a></p>
+<p><a href="mailto:Robelmezemir@gmail.com">Email</a></p>
+<p><a href="https://github.com/robimez">Github</a></p>
